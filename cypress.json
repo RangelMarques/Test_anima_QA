@@ -1,0 +1,4 @@
+{
+  "baseUrl": "https://automacaocombatista.herokuapp.com/",
+  "testFiles": "**/*.feature"
+}
