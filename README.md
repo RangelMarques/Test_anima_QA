@@ -59,21 +59,3 @@ Exemplo: `cypress/integration/Calculadora.feature`
 
 ```
 *Neste caso, vamos substituir pelos termos em inglês: Given, When, Then, And* 
-
-### Arquivos de feature "empacotados"
-
-
-
-## Definição dos passos (step definitions)
-
-**Formato RECOMENDADO**
-
-Criando os passos
-
-Os arquivos de feature irão utilizar os passos definidos nos arquivos que estiverem em uma pasta **com o mesmo nome do arquivo de feature**. Os arquivos `js` dentro dessa pasta podem ter qualquer outro nome, caso queira quebrar ou organizar com mais formas.
-
-Apenas para ilustrar: Google.feature -> Google/Google.steps.js
-
-> Cuke Step Definition Generator
-> https://github.com/TheBrainFamily/cypress-cucumber-preprocessor/issues/370
-- Botão direito nos steps > Generate step defs > Copy to clipboard
