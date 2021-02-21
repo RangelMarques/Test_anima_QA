@@ -1,8 +1,7 @@
 #language: pt
 Funcionalidade: VALIDARHOME
 
-  Como usuario, desejo utilizar a Calculadora
-  Para que possa conferir minhas contas
+ Criando usuario e validando informaçoes de tela
 
 Cenario: VALIDAR TELA HOME
   Dado que eu acesso o site
