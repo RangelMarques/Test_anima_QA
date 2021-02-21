@@ -77,4 +77,3 @@ Apenas para ilustrar: Google.feature -> Google/Google.steps.js
 > Cuke Step Definition Generator
 > https://github.com/TheBrainFamily/cypress-cucumber-preprocessor/issues/370
 - Botão direito nos steps > Generate step defs > Copy to clipboard
-# calculator-cucumber-cypress
